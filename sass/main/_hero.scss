@@ -1,0 +1,28 @@
+.hero {
+    background-image: url(../img/supra.jpg);
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 700px;
+}
+.hero__title {
+    margin-top: 150px;
+    margin-bottom: 20px;
+    font-size: 56px;
+    color: #fff;
+}
+
+
+
+.devises {
+    display: flex;
+    flex-wrap: wrap;
+}
+.devises__item {
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+// .devises__card-img-top {
+//     width: 400px;
+//     height: 200px;
+// }
