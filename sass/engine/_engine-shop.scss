@@ -1,16 +1,11 @@
-.header__close-svg {
-    width: 30px;
-    height: 30px;
-}
-.header__button {
-    background: none;
-    border: none;
-}
-.devises {
+.product {
     display: flex;
-    flex-wrap: wrap;
 }
-.devises__item {
-    margin-left: 60px;
-    margin-bottom: 30px;
+.product__img {
+    width: 400px;
+    height: 250px;
+}
+.shop {
+    margin-top: 50px;
+    margin-left: 50px;
 }
